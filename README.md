@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shoaib Mir</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoaibmirr&label=Profile%20views&color=0e75b6&style=flat" alt="shoaibmirr" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **shoaibmir997@gmail.com**
 
